@@ -17,6 +17,8 @@ To understand what the code does, how it works, and to find and fix bugs.
 
 ## Assessing Reading Skill & Diagnosing Problems
 
+* Attempt to assess specific skills in isolation.
+
 ## Reading Interventions
 
 * Building vocabulary
