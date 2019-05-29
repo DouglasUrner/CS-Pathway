@@ -19,4 +19,8 @@ To understand what the code does, how it works, and to find and fix bugs.
 
 ## Reading Interventions
 
+* Building vocabulary
+* Taking notes
+* Modeling "reading behaviors"
+
 ## Demonstrating Mastery
