@@ -14,11 +14,15 @@ After the pitches the classes:
 * Present the pitches to the agenices.
 * Get "offers" - the agencies decided if they will be willing to support the project
 
+### In-House "Agencies"
+
+Teachers, academic programs in the school, and the district could also pitch projects.
+
 ## GDP1 Class Outline
 
-Mission statement, overview of SI games  
-Game design process  
+1. Mission statement, overview of SI games  
+1. Game design process  
 - Game breakdown
 - Analysis of gameplay
 - Identification of elements
-Agency pitches - one (or maybe two) per class
+1. Agency pitches - one (or maybe two) per class
