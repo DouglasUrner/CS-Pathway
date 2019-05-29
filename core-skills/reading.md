@@ -17,7 +17,7 @@ To understand what the code does, how it works, and to find and fix bugs.
 
 ## Assessing Reading Skill & Diagnosing Problems
 
-* Attempt to assess specific skills in isolation.
+* Attempt to assess specific skills in isolation - e.g., avoid making a writing task a reading assessment.
 
 ## Reading Interventions
 
