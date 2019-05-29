@@ -30,4 +30,6 @@ In addition to the Internship experiences there as a WBL support class to furthe
 
 Organized around a "school based enterprise" - a social impact game development studio. The work of the studio is designed to support students who are not ready for, or able to find, internship opportunities.
 
+Some of the early classes in the internship option overlap with the in-school option, for example the A+ Certification class builds and maintains the gaming consoles used by the game development track for their public playtesting and marketing.
+
 ### Supporting Classes
