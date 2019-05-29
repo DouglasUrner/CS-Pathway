@@ -6,6 +6,10 @@ A US-centric high school pathway for CS built around internships in the local co
 
 [Implementation Notes](https://docs.google.com/document/d/1ljtHJvJRhpuQR5IpUe-d5zN9ojY-s4_jT5-PYOu34lA/edit)
 
+## Developing Core Skills
+
+[Reading Skills & Interventions](reading.md)
+
 ## Work Based Learning (WBL) Option
 
 Partner with local employers and agencies with CS related needs that can offer internship opportunities. At it's core an internship is:
