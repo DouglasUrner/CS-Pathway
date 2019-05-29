@@ -26,4 +26,8 @@ Every student who leaves the program takes away:
 
 In addition to the Internship experiences there as a WBL support class to further develop skills and share experiences.
 
+### In-School Option
+
+Organized around a "school based enterprise" - a social impact game development studio. The work of the studio is designed to support students who are not ready for, or able to find, internship opportunities.
+
 ### Supporting Classes
