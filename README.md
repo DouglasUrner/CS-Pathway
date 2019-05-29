@@ -2,7 +2,7 @@
 
 A US-centric high school pathway for CS built around internships in the local community.
 
-## Overview
+## Work Based Learning (WBL) Option
 
 Partner with local employers and agencies with CS related needs that can offer internship opportunities. At it's core an internship is:
 * "Real" work on a team with industy mentors.
@@ -16,6 +16,8 @@ Every student who leaves the program takes away:
 * Work experience and a letter of recomendation.
 * A resume showing experence in industry using industry standard tools and demonstrating the skills to collaborate on a team.
 * A well-focused and articulated High School & Beyond Plan.
+
+Acceptance into internships is competitive.
 
 ### Typical In-Pathway Sequence of Classes for WBL Option
 
