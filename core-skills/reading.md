@@ -18,7 +18,7 @@ To understand what the code does, how it works, and to find and fix bugs.
 ## Assessing Reading Skill & Diagnosing Problems
 
 * Attempt to assess specific skills in isolation - e.g., avoid making a writing task a reading assessment, or at the very least do not make writing quality a part of reading assessment.
-* Allow alternative demonstrations of proficency.
+* Allow alternative demonstrations of reading proficency - oral, drawing, write or debug code.
 
 ## Reading Interventions
 
