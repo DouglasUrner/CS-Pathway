@@ -3,6 +3,7 @@
 Educational & Social-Impact Game Design Studio
 
 Mission Statement: 
+* Foster understanding and curiosity
 
 ## Process Overview
 
@@ -22,7 +23,14 @@ Teachers, academic programs in the school, and the district could also pitch pro
 
 1. Mission statement, overview of SI games  
 1. Game design process  
+   - Fun & engagement
    - Game breakdown
    - Analysis of gameplay
    - Identification of elements
+   - Identify leaders, organizers, "natural" note takers
 1. Agency pitches - one (or maybe two) per class
+1. Programming "crash course"
+   - Algorithms (tools to create interaction/gameplay)
+   - Pair programming
+   - Notes
+   - GDP Unit 3
