@@ -8,7 +8,7 @@ A US-centric high school pathway for CS built around internships in the local co
 
 ## Developing Core Skills
 
-[Reading Skills & Interventions](reading.md)
+[Reading Skills & Interventions](core-skills/reading.md)
 
 ## Work Based Learning (WBL) Option
 
