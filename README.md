@@ -2,6 +2,8 @@
 
 A US-centric high school pathway for CS built around internships in the local community.
 
+[Essential Tasks]()
+
 [Implementation Notes](https://docs.google.com/document/d/1ljtHJvJRhpuQR5IpUe-d5zN9ojY-s4_jT5-PYOu34lA/edit)
 
 ## Work Based Learning (WBL) Option
