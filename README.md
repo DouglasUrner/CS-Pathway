@@ -25,6 +25,7 @@ Acceptance into internships is competitive.
 | :---           | :---             | :---       | :---       | :---       |
 | CS Discoveries | AP CS Principles | AP CS A    | Internship | Internship |
 | CS Discoveries | AP CS Principles | A+ Cert    | Internship | Internship |
+| CS Discoveries | AP CS Principles | Web Design | Internship | Internship |
 
 In addition to the Internship experiences there as a WBL support class to further develop skills and share experiences.
 
