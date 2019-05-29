@@ -15,6 +15,8 @@ To understand what the code does, how it works, and to find and fix bugs.
   - Management
   - Clients
 
+## Assessing Reading Skill & Diagnosing Problems
+
 ## Reading Interventions
 
 ## Demonstrating Mastery
