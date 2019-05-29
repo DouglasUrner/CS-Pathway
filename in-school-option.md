@@ -22,7 +22,7 @@ Teachers, academic programs in the school, and the district could also pitch pro
 
 1. Mission statement, overview of SI games  
 1. Game design process  
-  - Game breakdown
-  - Analysis of gameplay
-  - Identification of elements
+   - Game breakdown
+   - Analysis of gameplay
+   - Identification of elements
 1. Agency pitches - one (or maybe two) per class
