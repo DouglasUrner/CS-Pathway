@@ -45,7 +45,7 @@ Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google
 * Teach syntax
   - Recognizing syntax errors
   - Predicting the result of errors
-  - Syntax errors that lead to parse errors vs. errors that lead to unexpected execution of code
+  - Syntax errors that lead to parse errors vs. errors that lead to unexpected execution of code. For example in a C-like language, this code snippet probably does not do what the author intended - although the syntax is "correct."
     ```c
     if (a == b);  // Empty if block
       c++;        // Always executed
