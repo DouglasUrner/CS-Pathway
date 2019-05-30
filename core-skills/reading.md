@@ -47,8 +47,8 @@ Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google
   - Predicting the result of errors
   - Syntax errors that lead to parse errors vs. errors that lead to unexpected execution of code
     ```c
-  if (a == b);  // Empty if block
-    c++;        // Always executed
+    if (a == b);  // Empty if block
+      c++;        // Always executed
     ```
  
 
