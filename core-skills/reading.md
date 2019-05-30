@@ -40,8 +40,16 @@ Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google
 
 ### For Reading Code
 
+* Observation skills - noticing differences between code segments
 * Teach code structure (blocking, matching braces, scope, how the language or runtime system works)
 * Teach syntax
   - Recognizing syntax errors
+  - Predicting the result of errors
+  - Syntax errors that lead to parse errors vs. errors that lead to unexpected execution of code
+  ```c
+  if (a == b);  // Empty if block
+    c++;        // Always executed
+  ```
+ 
 
 ## Demonstrating Mastery
