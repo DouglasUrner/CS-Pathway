@@ -40,16 +40,26 @@ Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google
 
 ### For Reading Code
 
+Tranferable skills and skills that are, more or less, specific to reading code.
+
 * Observation skills - noticing differences between code segments
+* "Parts of speech"
 * Teach code structure (blocking, matching braces, scope, how the language or runtime system works)
 * Teach syntax
   - Recognizing syntax errors
   - Predicting the result of errors
-  - Syntax errors that lead to parse errors vs. errors that lead to unexpected execution of code. For example in a C-like language, this code snippet probably does not do what the author intended - although the syntax is "correct."
+  - Recognizing syntactic errors that lead to unexpected/incorrect execution of the code. For example in a C-like language, this code snippet probably does not do what the author intended - although the syntax is accepted by the parser.
     ```c
     if (a == b);  // Empty if block
       c++;        // Always executed
     ```
- 
+* Variable declarations vs. usage
+* Function definition vs. function calls
+* Convention vs. requirement - e.g., in JavaScript variable names are **camelCased** by convention, but are not allowed to begin with a digit.
+* Patterns (counter pattern, array iteration)
+  - Recognizing code that does something you want and using it as a template.
+  - _Gang of Four_ - reusable solutions.
+
+Reading error messages and strategies for resolving them.
 
 ## Demonstrating Mastery
