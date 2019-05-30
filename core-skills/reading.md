@@ -20,8 +20,9 @@ To understand what the code does, how it works, and to find and fix bugs.
   - Management
   - Clients
   - Users
+  - Reviewers
   
-  Recognizing that roles can overlap.
+   Recognizing that roles can overlap.
   
 Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google.com/document/d/1_uaE2YR7COytJC3DQLxi6bECeaFk97nYWnssua0OvdQ/edit?usp=sharing).
 
