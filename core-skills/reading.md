@@ -46,10 +46,10 @@ Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google
   - Recognizing syntax errors
   - Predicting the result of errors
   - Syntax errors that lead to parse errors vs. errors that lead to unexpected execution of code
-  ```c
+    ```c
   if (a == b);  // Empty if block
     c++;        // Always executed
-  ```
+    ```
  
 
 ## Demonstrating Mastery
