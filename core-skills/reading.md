@@ -5,7 +5,7 @@
 * **Disecting Project Specs**  
 To understand what is required of you.
 * **Reading Documentation**  
-To understand who the tools you are using work.
+To understand how the tools you are using work.
   - "Formal" API and tool documentation
   - Tutorials
 * **Reading Code**  
