@@ -10,10 +10,17 @@ To understand how the tools you are using work.
   - Tutorials
 * **Reading Code**  
 To understand what the code does, how it works, and to find and fix bugs.
+* **Reading Output**
+  - Editor/IDE messages
+  - Compile time errors and warnings
+  - Runtime errors and warning (exceptions)
+  - "Intentional" output - "normal" program output (understanding how it is constructed)
 * **Communicating to Collaborate**  
   - Peers
   - Management
   - Clients
+  - Users
+  Recognizing that roles can overlap.
   
 Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google.com/document/d/1_uaE2YR7COytJC3DQLxi6bECeaFk97nYWnssua0OvdQ/edit?usp=sharing).
 
@@ -28,5 +35,11 @@ Notes towards a [Reading Assessment & Intervention Protocol](https://docs.google
 * Building vocabulary
 * Taking notes
 * Modeling "reading behaviors"
+
+### For Reading Code
+
+* Teach code structure (blocking, matching braces, scope, how the language or runtime system works)
+* Teach syntax
+  - Recognizing syntax errors
 
 ## Demonstrating Mastery
