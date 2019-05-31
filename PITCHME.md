@@ -6,6 +6,9 @@ This list began with slides from a talk by Patrick of Microsoft Research aimed a
 
 Find something that you are passionate about, or at least that you are curious enough about to dive into. The work will be more fun and your interest and passion will come through in your work and the way you present it in interviews. Excitement about a project and commitment to the field are persuasive and compelling.
 
+[github]: <https://github.com>
+[linkedin]: <https://linkedin.com>
+
 ---
 
 ## Pathways
@@ -21,6 +24,10 @@ Note:
 ---
 
 ## Create A Professional Online Profile
+
+* [GitHub][]
+* Work on open source projects
+* [LinkedIn][]
 
 Note:
 
@@ -62,10 +69,14 @@ Note:
 
 ---
 
-Resources for finding opportunities:
+## Resources for finding opportunities:
+
+* School career center / internship office
 * [A list of beginner-friendly projects](https://github.com/MunGell/awesome-for-beginners) - good places to go looking for your first opportunities to contribute to an open source project.
 * [Events and fellowship opportunities for Computer Science students](https://github.com/anu0012/awesome-computer-science-opportunities)
 * [Big Internships](https://www.biginternships.com) - a site with internship listings.
+
+Note:
 
 ---
 
