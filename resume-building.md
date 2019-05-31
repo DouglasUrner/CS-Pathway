@@ -17,8 +17,7 @@ Common features of the assignments:
 
 * **Open Source Communities**
 
-  - Identify an open source project that interests you.
-  
+  - Identify an open source project that interests you.  
   - Find an opportunity to use your skills by contributing to an open source project.
 
 * **Open Ended Group Projects**
