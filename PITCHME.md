@@ -1,5 +1,7 @@
 # Launching Your Career
 
+## It's not too early...
+
 Note:
 
 This list began with slides from a talk by Patrick of Microsoft Research aimed at helping college professors understand how to help their students prepare to launch their careers. The advice is equally good for targeting internships or college interviews.
@@ -8,7 +10,7 @@ Find something that you are passionate about, or at least that you are curious e
 
 ---
 
-## Pathways
+## Career Pathways In CS
 
 * "I can do that"
 * Certifications
@@ -17,6 +19,8 @@ Find something that you are passionate about, or at least that you are curious e
 * 4-year Programs
 
 Note:
+
+The field is still very much a meritocracy and there is a shortage of people - this works to your advantage.
 
 ---
 
