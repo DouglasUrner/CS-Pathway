@@ -6,9 +6,6 @@ This list began with slides from a talk by Patrick of Microsoft Research aimed a
 
 Find something that you are passionate about, or at least that you are curious enough about to dive into. The work will be more fun and your interest and passion will come through in your work and the way you present it in interviews. Excitement about a project and commitment to the field are persuasive and compelling.
 
-[github]: <https://github.com>
-[linkedin]: <https://linkedin.com>
-
 ---
 
 ## Pathways
@@ -28,6 +25,9 @@ Note:
 * [GitHub][]
 * Work on open source projects
 * [LinkedIn][]
+
+[github]: <https://github.com>
+[linkedin]: <https://linkedin.com>
 
 Note:
 
