@@ -8,7 +8,21 @@ Find something that you are passionate about, or at least that you are curious e
 
 ---
 
+## Pathways
+
+* "I can do that"
+* Certifications
+* Military
+* 2-year Programs
+* 4-year Programs
+
+Note:
+
+---
+
 ## Create A Professional Online Profile
+
+Note:
 
 * LinkedIn
 * GitHub
@@ -27,6 +41,8 @@ Find something that you are passionate about, or at least that you are curious e
 ---
 
 ## Get Some Experience
+
+Note:
 
 * Go for tech internships!
   - Add them to your resume
@@ -55,13 +71,19 @@ Resources for finding opportunities:
 
 ## Join the Community
 
+Note:
+
 ---
 
 ## Know the Interview Process
 
+Note:
+
 ---
 
 ## Entry-level Expectations
+
+Note:
 
 In positions that would typically be filled by college/university CS program graduates:
 
