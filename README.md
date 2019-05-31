@@ -37,10 +37,14 @@ Acceptance into internships is competitive.
 
 In addition to the Internship experiences there as a WBL support class to further develop skills and share experiences.
 
-### In-School Option
+## In-School Option
 
 Organized around a "school based enterprise" - a social impact game development studio. The work of the studio is designed to support students who are not ready for, or able to find, internship opportunities.
 
 Some of the early classes in the internship option overlap with the in-school option, for example the A+ Certification class builds and maintains the gaming consoles used by the game development track for their public playtesting and marketing.
 
-### Supporting Classes
+## Supporting Classes
+
+## Capstone/Culminating Project
+
+Extended (4-8 week) project that requires developing skills & knowledge not taught in the class.
