@@ -21,3 +21,13 @@ Common features of the assignments:
   - Find an opportunity to use your skills by contributing to an open source project.
 
 * **Open Ended Group Projects**
+
+* **Setup A LinkedIn Profile**
+
+* **Professional Cleanup of GitHub Account**
+
+* **Portfolio Web Site**
+  - For yourself or a friend
+  - Make it look good
+  - Documentation
+  - Source on GitHub
