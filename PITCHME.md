@@ -27,7 +27,10 @@ The field is still very much a meritocracy and there is a shortage of people - t
 ## Create A Professional Online Profile
 
 * [GitHub][]
+  - School projects
+  - Practice problems, experiments, personal projects
 * Work on open source projects
+  - Contributions will show up on your GitHub profile
 * [LinkedIn][]
 
 [github]: <https://github.com>
@@ -52,6 +55,17 @@ Note:
 ---
 
 ## Get Some Experience
+
+* Internships
+* Using tech skills in a "non-tech" job
+* If you can't put your tech skills to work at a job or internship:
+  - Work on open source software projects (see above)
+  - Work on public coding challenges
+    - Keep the code on GitHub
+  - Volunteer to do tech work for a non-profit:
+    - Create/maintain a web site
+    - Automate boring/repetitive tasks
+    - Build tools to organize and/or analyize data
 
 Note:
 
