@@ -22,6 +22,8 @@ Common features of the assignments:
 
 * **Open Ended Group Projects**
 
+* **Capstone Project**
+
 * **Setup A LinkedIn Profile**
 
 * **Professional Cleanup of GitHub Account**
