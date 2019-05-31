@@ -89,7 +89,7 @@ Note:
 ## Join the Community
 
 * Find meetups
-* Participate in hack-a-thons and gamejams
+* Participate in hack-a-thons and game jams
 * Attend conferences:
   - Many are local
   - Grants and scholarships
