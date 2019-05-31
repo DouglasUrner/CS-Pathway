@@ -1,6 +1,6 @@
 # Launching Your Career
 
-Notes:
+Note:
 
 This list began with slides from a talk by Patrick of Microsoft Research aimed at helping college professors understand how to help their students prepare to launch their careers. The advice is equally good for targeting internships or college interviews.
 
