@@ -29,11 +29,12 @@ Acceptance into internships is competitive.
 
 ### Typical In-Pathway Sequence of Classes for WBL Option
 
-| Middle School  | 9th Grade        | 10th Grade | 11th Grade | 12th Grade |
-| :---           | :---             | :---       | :---       | :---       |
-| CS Discoveries | AP CS Principles | AP CS A    | Internship | Internship |
-| CS Discoveries | AP CS Principles | A+ Cert    | Internship | Internship |
-| CS Discoveries | AP CS Principles | Web Design | Internship | Internship |
+| Middle School  | 9th Grade        | 10th Grade       | 11th Grade     | 12th Grade |
+| :---           | :---             | :---             | :---           | :---       |
+| CS Discoveries | AP CS Principles | AP CS A          | Internship     | Internship |
+| CS Discoveries | AP CS Principles | A+ Cert          | Internship     | Internship |
+| CS Discoveries | AP CS Principles | Web Design       | Internship     | Internship |
+| No CS          | CS Discoveries   | AP CS Principles | GDP or AP CS A | Internship |
 
 In addition to the Internship experiences there as a WBL support class to further develop skills and share experiences.
 
@@ -42,6 +43,12 @@ In addition to the Internship experiences there as a WBL support class to furthe
 Organized around a "school based enterprise" - a social impact game development studio. The work of the studio is designed to support students who are not ready for, or able to find, internship opportunities.
 
 Some of the early classes in the internship option overlap with the in-school option, for example the A+ Certification class builds and maintains the gaming consoles used by the game development track for their public playtesting and marketing.
+
+### Typical In-Pathway Sequence of Classes for In-School Option
+
+| Middle School | 9th Grade      | 10th Grade       | 11th Grade           | 12th Grade |
+| :------------ | :--------      | :---------       | :---------           | :--------- |
+| No CS         | CS Discoveries | AP CS Principles | GDP 1 / 3D Animation | GDP 2      |
 
 ## Supporting Classes
 
